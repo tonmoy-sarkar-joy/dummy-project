@@ -1,2 +1,2 @@
-# dami-project
+# dummy-project
 Temporary
